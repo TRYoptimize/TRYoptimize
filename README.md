@@ -9,6 +9,8 @@
  |  Lemme  |  Test  |  this  |  shit  |  out  |
   ![Static Badge](https://img.shields.io/badge/HEY-blue?link=https%3A%2F%2Fgithub.com%2FTRYoptimize%2FTEST)
 
+  [![P](https://img.shields.io/badge/Samples-2-green)](https://github.com/bonezegei/bonezegei-Socket)
+
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
