@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m @TRYoptimize<br><br>🤤 Embedded Firmware Developer | ⚙️ IoT Enthusiast | 🛠️ Robot Creator<br><br>Welcome to my GitHub! I'm Deejay Barbon, the creator of TRYoptimize. My coding philosophy revolves around utilizing all available resources and libraries to develop highly efficient, optimized, and user-friendly programs and code. I'm committed to making technology accessible and enjoyable for all by crafting innovative solutions that are both powerful and practical. Let's collaborate and explore the world of efficient, user-centric coding together, ensuring that technology works better for everyone.
+👋 Hi, I’m @TRYoptimize<br><br>🤤 Embedded Firmware Developer | ⚙️ IoT Enthusiast | 🛠️ Robot Creator<br><br>Welcome to my GitHub! I'm [![Static Badge](https://img.shields.io/badge/Deejay%20Barbon-blue?style=for-the-badge)
+](https://github.com/TRYoptimize/TRYoptimize) , the creator of TRYoptimize. My coding philosophy revolves around utilizing all available resources and libraries to develop highly efficient, optimized, and user-friendly programs and code. I'm committed to making technology accessible and enjoyable for all by crafting innovative solutions that are both powerful and practical. Let's collaborate and explore the world of efficient, user-centric coding together, ensuring that technology works better for everyone.
 
 
 # 💻 Tech Stack:
