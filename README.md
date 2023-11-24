@@ -14,9 +14,15 @@
   [![P](https://img.shields.io/badge/Samples-2-green)](https://github.com/bonezegei/bonezegei-Socket)
 
   [![Static Badge](https://img.shields.io/badge/TEST-green)](https://github.com/TRYoptimize/TEST)
-
-
-
+# Repositories:
+### *Arduino IDE Libraries
+| Name | Description| Supported uController Board(s) | Latest Version |
+|-----|---|---|---|
+| TRYoptimize_    |          |             |        |
+| TRYoptimize_    |          |             |        |
+| TRYoptimize_    |          |             |        |
+| TRYoptimize_    |          |             |        |
+<br>
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
