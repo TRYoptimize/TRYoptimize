@@ -16,7 +16,7 @@
   [![Static Badge](https://img.shields.io/badge/TEST-green)](https://github.com/TRYoptimize/TEST)
 # Repositories:
 ### *Arduino IDE Libraries
-| Name | Description| Supported uController Board(s) | Latest Version |
+| Name | Description| Supported uController Board(s) |      |
 |-----|---|---|---|
 | TRYoptimize_    |          |             |        |
 | TRYoptimize_    |          |             |        |
