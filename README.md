@@ -15,7 +15,7 @@
 
   [![Static Badge](https://img.shields.io/badge/TEST-green)](https://github.com/TRYoptimize/TEST)
 # Repositories:
-### *Microcontroller Projects
+### *Technology Projects (Personal)
 | Name of Project | Description|  |     |
 |-----|---|---|---|
 |  |          |             |        |
@@ -33,7 +33,7 @@
 | TRYoptimize_    |          |             |        |
 <br>
 
-### *Arduino Programs
+### *Arduino Programs (Optimize)
 | Peripherals | Description| 
 |-----|---|
 |     |          |             
